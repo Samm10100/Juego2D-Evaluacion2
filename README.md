@@ -46,5 +46,5 @@
 | Saltos infinitos en el aire. | Detección de suelo estricta con `Physics2D.Raycast` filtrado por `LayerMask` (`Ground`). |
 
 ## 8. Roles de la Dupla
-* **Samuel Riquelme:** Arquitectura base del proyecto (URP 2D), físicas del personaje (`PlayerController`), diseño de nivel con Tilemap, Prefabs y compilación del Build final.
-* **Camilo Caripán:** Lógica del Game Loop (`GameManager`, `DeathZone`, `SceneLoader`), interfaz de usuario (UI, fondos y escenas), integración de audio (`AudioMixer`, `AudioManager`) y documentación técnica.
+* **Samuel Riquelme:** Arquitectura base del proyecto (URP 2D), físicas del personaje (`PlayerController`), diseño de nivel con Tilemap, Prefabs y compilación del Build final. Interfaz de usuario (UI, fondos y escenas), integración de audio (`AudioMixer`, `AudioManager`) y documentación técnica.
+* **Camilo Caripán:** Lógica del Game Loop (`GameManager`, `DeathZone`, `SceneLoader`).
